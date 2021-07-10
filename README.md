@@ -4,3 +4,5 @@ Basic Processing/Java program which demonstrates one way to implement the [Monom
 
 
 _probably can be optimised, but until OSC is natively implemented in BitWig, this works..._
+
+Libraries: OscP5, NetP5 & Monome for Processing.
