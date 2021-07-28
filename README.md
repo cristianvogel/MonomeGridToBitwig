@@ -5,7 +5,7 @@ Basic Processing/Java sketch which demonstrates one way to implement the [Monome
 
 _probably can be optimised, but until OSC is natively implemented in BitWig, this works..._
 
-The sketch is setup to send on port 8005  ```int bitwigPort = 8005;``` . Set that as receiving port on the Moss OSC settings inside Bitwig DrivenbyMoss OSC settings and set the sending port to be the one the sketch is listening to ```13755``` by default. 
+The sketch is setup to send on port 8005  ```int bitwigPort = 8005;``` . Set that as receiving port on DrivenbyMoss OSC settings panel in Bitwig and set the sending port to be the one the sketch is listening to ```13755``` by default. 
 
 I included a Mac and Win prebuild standalone for convience. On OS X , you need Java installed to run that. 
 
